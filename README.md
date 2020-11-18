@@ -10,7 +10,7 @@ This is a simple MVC Application that manages employees, it exists as a backdrop
 
 ### Middleware Pipeline, DI
 
-![middleware](https://github.com/Piterino/commapitut/blob/main/middlewarepipeline.png?raw=true)
+![middleware](https://github.com/Piterino/employeemanagementtut/blob/main/middlewarepipeline.png?raw=true)
 
 A pipeline of generic delegates allows for our application to rely entirely on coding against interfaces, whilst every dependency can be injected.
 
@@ -28,7 +28,7 @@ These allow us to map our Controllers and their verbs directly in markup of our 
 
 ### Bootstrap
 
-![index](https://github.com/Piterino/commapitut/blob/main/employeemgmtindex.png?raw=true)
+![index](https://github.com/Piterino/employeemanagementtut/blob/main/middlewarepipeline.png?raw=true)
 
 Using a popular library for creating simple components
 
