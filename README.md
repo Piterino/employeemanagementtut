@@ -28,7 +28,7 @@ These allow us to map our Controllers and their verbs directly in markup of our 
 
 ### Bootstrap
 
-![index](https://github.com/Piterino/employeemanagementtut/blob/main/middlewarepipeline.png?raw=true)
+![index](https://github.com/Piterino/employeemanagementtut/blob/main/employeemgmtindex.png?raw=true)
 
 Using a popular library for creating simple components
 
